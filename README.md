@@ -1,5 +1,9 @@
 # ZhuaTech CLM｜知华科技合同生命周期管理系统
 
+## 企业级增强：合同生效治理
+
+新增版本、法务财务、相对方、签署、受限方、先决条件、数据保护和义务登记门禁，详见 [合同生效治理](docs/ENTERPRISE_CONTRACT_EFFECTIVENESS.md)。
+
 > 从合同起草、法务审查、会签、履约到归档，建立统一、可追溯的合同工作台。
 
 [![Java 21](https://img.shields.io/badge/Java-21-24456b)](backend/pom.xml) [![Vue 3](https://img.shields.io/badge/Vue-3-42b883)](frontend/package.json) [![MySQL 8](https://img.shields.io/badge/MySQL-8-4479a1)](compose.yaml) [![License](https://img.shields.io/badge/license-personal_non--commercial-c28a3c)](LICENSE)
